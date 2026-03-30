@@ -1,0 +1,12 @@
+{
+  "name": "diagram-expert",
+  "version": "1.0.0",
+  "description": "Create detailed Mermaid diagrams for architecture, flows, ERDs, and more — and improve READMEs with visual documentation",
+  "author": {
+    "name": "Matt Hesketh",
+    "email": "matt@heskethwebdesign.co.uk"
+  },
+  "repository": "https://github.com/wrxck/diagram-expert",
+  "license": "MIT",
+  "keywords": ["diagrams", "mermaid", "architecture", "documentation", "readme"]
+}
