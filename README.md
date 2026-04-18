@@ -1,5 +1,7 @@
 # diagram-expert
 
+[![CI](https://github.com/wrxck/diagram-expert/actions/workflows/ci.yml/badge.svg)](https://github.com/wrxck/diagram-expert/actions/workflows/ci.yml)
+
 A Claude Code plugin that generates detailed, accurate Mermaid diagrams from your codebase and improves READMEs with visual documentation.
 
 ## What it does
